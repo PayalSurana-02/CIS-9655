@@ -1,7 +1,6 @@
 # CIS-9655
-## Data Visualization
-###The Impact of Screen Time on Adolescents and Adults. (8-17 years, 18+ years) 
-Hypothesis:  
+## The Impact of Screen Time on Adolescents and Adults. (8-17 years, 18+ years) 
+### Hypothesis:  
 With the rapid integration of digital technology into everyday life, screen time has become a 
 significant aspect of both adolescent (ages 8–17) and adult (ages 18 and above) routines. Recent 
 studies show that adolescents spend up to 9 hours daily on screens, while adults average up to 13 
